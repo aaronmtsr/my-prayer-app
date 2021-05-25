@@ -1,43 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T00:27:02.992Z" agent="5.0 (Macintosh)" etag="0mLu0ibmXITswrvCFimA" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T03:15:20.735Z" agent="5.0 (Macintosh)" etag="j85ObReQLk6pGSHnctoc" version="14.6.10" type="github">
   <diagram id="4gwdaympnnYvs2-U84xt" name="Page-1">
-    <mxGraphModel dx="1113" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aihPS6RN3tUYBQGj_HhG-1" value="PRAY WITHOUT CEASING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="40" width="670" height="60" as="geometry" />
+          <mxGeometry x="90" y="180" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-2" value="&lt;div&gt;TODAY&#39;S PRAYER&lt;/div&gt;&lt;div&gt;(SWITCHES BY WEEKDAY)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="290" height="60" as="geometry" />
+          <mxGeometry x="280" y="380" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aihPS6RN3tUYBQGj_HhG-3" target="aihPS6RN3tUYBQGj_HhG-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="270" as="targetPoint" />
+            <mxPoint x="720" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-3" value="SEARCH OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-5" value="PRAYERS BY CIRCUMSTANCE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aihPS6RN3tUYBQGj_HhG-8" target="aihPS6RN3tUYBQGj_HhG-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-8" value="AUDIBLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-9" value="WRITTEN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aihPS6RN3tUYBQGj_HhG-11" target="aihPS6RN3tUYBQGj_HhG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-11" value="PRAYER REQUEST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aihPS6RN3tUYBQGj_HhG-12" value="FORM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aihPS6RN3tUYBQGj_HhG-14" value="PRAYING HANDS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aihPS6RN3tUYBQGj_HhG-15" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="85" y="140" width="680" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aihPS6RN3tUYBQGj_HhG-16" value="ROOT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="670" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
